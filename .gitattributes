@@ -1,0 +1,4 @@
+*.elm       text diff=elm
+*.elm.js    text diff=elm
+*.css       text diff=css
+*.html      text diff=html
