@@ -1,6 +1,0 @@
---class-path src
---main Main
---library react
---library react-router
--D react_global
---js assets/js/main.haxe.js
